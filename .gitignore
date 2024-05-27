@@ -1,0 +1,4 @@
+.git/*
+aclImdb/*
+venv/*
+.ipynb_checkpoints/*
